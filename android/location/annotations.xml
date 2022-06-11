@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='android.location.LocationListener void onLocationChanged(android.location.Location) 0'>
+        <annotation name='androidx.annotation.NonNull' />
+    </item>
+</root>
